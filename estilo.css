@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blue;
+}
+
+
+.formulario {
+    width: 300px;
+    margin: 300px auto;
+    padding: 20px;
+    background-color: rgb(243, 244, 245);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(27, 4, 4);
+}
+
+input, textarea {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
